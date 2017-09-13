@@ -1,6 +1,6 @@
 title: Sites to increase your typing speed
 cmsUserSlug: ""
-date: 2017-09-13T00:00:00+00:00
+date: 2017-09-13T00:00:00.000Z
 category: Typing
 
 These are some sites which will definitely help in increasing your current typing speed if you practice daily. 
